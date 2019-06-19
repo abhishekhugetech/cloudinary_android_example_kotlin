@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Using Cloudinary</string>
+    <string name="image">Image</string>
+    <string name="image_name">Image Name</string>
+    <string name="open_image_rv">Open Image Rv</string>
+    <string name="disable_image_cache">Disable Image Cache</string>
+    <string name="image_height">Image Height</string>
+    <string name="set_image_height">Set Image Height</string>
+    <string name="set_image_width">Set Image Width</string>
+    <string name="image_width">Image Width</string>
+</resources>
