@@ -1,4 +1,4 @@
-# Cloudinary Android SDK (Kotlin Implementation)
+## Cloudinary Android SDK (Kotlin Implementation)
 Implemented Cloudinary SDK using kotlin to fetch images from cloudinary.
 
 Steps to follow to use this project:
@@ -18,7 +18,7 @@ Steps to follow to use this project:
 
 ---
 
-# App Screen Shot
+## App Screen Shot
 
 MainActivity               |  ImageRvActivity
 :-------------------------:|:-------------------------:
